@@ -108,7 +108,7 @@ header{
 
   /*Your Code Here*/
   /*Set background-image to header.jpg */
-  background-image: url("https://kevingalvan86.github.io/homework_3/images/jeader.jpg");
+  background-image: url("https://kevingalvan86.github.io/homework_3/images/header.jpg");
  
 
   grid-column: 1 / -1;  /*Can you explain what this does?*/
