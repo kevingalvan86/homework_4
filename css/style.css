@@ -129,7 +129,7 @@ header p{
 }
 
 .about-image, .method-image, .clients-image, .contact-image{
-  grid-column-start: 1 / -1;
+  grid-column: 1 / -1;
 
 }
 
