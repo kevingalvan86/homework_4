@@ -123,8 +123,8 @@ header p{
 }
 
 .about, .method, .clients, .contact{
-  grid-column-start: 2 / span 1;
-  grid-row-start: auto / span 1;
+  grid-column: 2 / span 1;
+  grid-row: auto / span 1;
 
 }
 
