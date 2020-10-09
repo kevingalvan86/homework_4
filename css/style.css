@@ -60,7 +60,7 @@ nav ul li a:hover, nav ul li a:focus{
 
 /*Your Code Here*/
 /*Write selector/rule property to position the skip class element*/
-.skip{
+div.skip{
   position:relative;
 }
 
