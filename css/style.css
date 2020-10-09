@@ -123,12 +123,13 @@ header p{
 }
 
 .about, .method, .clients, .contact{
-  /*Your Code Here*/
+  grid-column-start: 2 / span 1;
+  grid-row-start: auto / span 1;
 
 }
 
 .about-image, .method-image, .clients-image, .contact-image{
-  /*Your Code Here*/
+  grid-column-start: 1 / -1;
 
 }
 
